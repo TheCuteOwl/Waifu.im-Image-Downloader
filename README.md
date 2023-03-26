@@ -3,6 +3,8 @@
 
 ## Star if you want to support me
 
+I will maybe add Bot and Webhook Support
+
 | Features                          | 🔰Stuff in it  |
 | -------------------------- | :----------------: |
 | Download image           |         ✔️         |
